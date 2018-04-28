@@ -1,0 +1,11 @@
+﻿生成启动时间为 2018\4\28 星期六 11:33:15。
+     1>项目“D:\VS\Projects\ffSDL\ffSDL\ffSDL.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\VS\Projects\ffSDL\Debug\ffSDL.exe" /INCREMENTAL /NOLOGO /LIBPATH:D:\VS\Projects\ffSDL\ffSDL\lib SDL2.lib SDL2main.lib avcodec.lib avformat.lib avutil.lib swscale.lib swresample.lib avfilter.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\VS\Projects\ffSDL\Debug\ffSDL.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\VS\Projects\ffSDL\Debug\ffSDL.lib" /MACHINE:X86 "Debug\源.obj"
+            正在创建库 D:\VS\Projects\ffSDL\Debug\ffSDL.lib 和对象 D:\VS\Projects\ffSDL\Debug\ffSDL.exp
+         ffSDL.vcxproj -> D:\VS\Projects\ffSDL\Debug\ffSDL.exe
+     1>已完成生成项目“D:\VS\Projects\ffSDL\ffSDL\ffSDL.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.27
